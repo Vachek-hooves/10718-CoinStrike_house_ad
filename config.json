@@ -1,0 +1,22 @@
+{
+  "engine_enabled": true,
+  "interstitial_every_n_actions": 3,
+  "interstitial_every_n_actions_max": 5,
+  "interstitial_min_interval_ms": 60000,
+  "interstitial_min_watch_ms": 5000,
+  "rewarded_min_watch_ms": 15000,
+  "creatives": [
+    {
+      "id": "basstoolkit_slide_1",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://Vachek-hooves.github.io/10718-CoinStrike_house_ad/media/interstitial_1.png",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.bigsound.basstoolkit",
+      "store_url": "https://play.google.com/store/apps/details?id=com.bigsound.basstoolkit",
+      "weight": 1
+    }
+  ]
+}
