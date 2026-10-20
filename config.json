@@ -9,7 +9,7 @@
     {
       "id": "basstoolkit_slide_1",
       "format": "image",
-      "placements": ["interstitial", "rewarded"],
+      "placements": ["interstitial", "rewarded", "banner"],
       "image_url": "https://Vachek-hooves.github.io/10718-CoinStrike_house_ad/media/interstitial_1.png",
       "title": "",
       "body": "",
