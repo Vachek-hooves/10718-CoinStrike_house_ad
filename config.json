@@ -9,8 +9,20 @@
     {
       "id": "basstoolkit_slide_1",
       "format": "image",
-      "placements": ["interstitial", "rewarded", "banner"],
+      "placements": ["interstitial", "rewarded"],
       "image_url": "https://Vachek-hooves.github.io/10718-CoinStrike_house_ad/media/interstitial_1.png",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY",
+      "bundle_id": "com.bigsound.basstoolkit",
+      "store_url": "https://play.google.com/store/apps/details?id=com.bigsound.basstoolkit",
+      "weight": 1
+    },
+    {
+      "id": "basstoolkit_banner_1",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://Vachek-hooves.github.io/10718-CoinStrike_house_ad/media/banner_1.png",
       "title": "",
       "body": "",
       "cta_text": "PLAY",
